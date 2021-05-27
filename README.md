@@ -1,5 +1,5 @@
 # Pilot-TV
-Pilot-TV is a project from the gliding club "Segelflugclub Lauf-Lillinghof (EDQI)" where a Raspberry Pi 4 is used to display a combination of the Arrival/Departure Times from Vereinsflieger together with a view of Glidertracker. The Rasperry Pi runs all the time as it is also used as FLARM Receiver (http://wiki.glidernet.org/wiki:raspberry-pi-installation). The screen is connected via a long HDMI and only has to be turned on. You can store the html files either locally or on your website.
+Pilot-TV is a project from the gliding club "Segelflugclub Lauf-Lillinghof (EDQI)" where a Raspberry Pi 4 is used to display a combination of the Arrival/Departure Times from Vereinsflieger together with a view of Glidertracker. The Rasperry Pi runs all the time as it is also used as FLARM Receiver (http://wiki.glidernet.org/wiki:raspberry-pi-installation). The screen is connected via a long HDMI and only has to be turned on and off. You can store the html files either locally or on your website.
 
 TODOs
 1) Create iframe as admin in Vereinsflieger https://www.vereinsflieger.de/member/admin/fb_creator.php
