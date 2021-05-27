@@ -3,10 +3,10 @@ Pilot-TV is a project from the gliding club "Segelflugclub Lauf-Lillinghof (EDQI
 
 TODOs
 1) Create iframe as admin in Vereinsflieger https://www.vereinsflieger.de/member/admin/fb_creator.php
-2) Insert iframe in flightTimes.html (see comments)
-3) Adjust flightTimes.html (see comments)
-4) Adjust frames.html (see comments)
-5) Adjust Rasperry Pi congig.txt (hdmi_force_hotplug, hdmi_edid_filename, overscan) https://www.raspberrypi.org/documentation/configuration/config-txt/video.md
+2) Insert iframe in flightTimes.html (see TODO comments)
+3) Adjust flightTimes.html (see TODO comments)
+4) Adjust frames.html (see TODO comments)
+5) Adjust Rasperry Pi congig.txt (see TODO comments) (hdmi_force_hotplug, hdmi_edid_filename, overscan) https://www.raspberrypi.org/documentation/configuration/config-txt/video.md
 6) Autostart Chromium in flullscreen on startup https://linux.tips/tutorials/how-to-auto-start-chromium-in-full-screen-mode-to-a-website-url-on-ubuntu-os
 7) Set frames.html as default start page in Chromium http://write.flossmanuals.net/chromium/setting-startup-and-start-page-options/
 8) Reboot Rasperry Pi automatically every night https://gist.github.com/jritsema/d358f31bcc83f5bb479a
