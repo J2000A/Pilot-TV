@@ -11,9 +11,9 @@ TODOs
 7) Set frames.html as default start page in Chromium http://write.flossmanuals.net/chromium/setting-startup-and-start-page-options/
 8) Reboot Rasperry Pi automatically every night https://gist.github.com/jritsema/d358f31bcc83f5bb479a
 
-DONATIONS
-We would be very happy to receive a small donation :D
+DONATIONS<br>
+We would be very happy to receive a small donation :D<br>
 https://www.paypal.me/JonasAugust
 
-EMAIL
+EMAIL<br>
 sfc-lauf-lillinghof@gmail.com
