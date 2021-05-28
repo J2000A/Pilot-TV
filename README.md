@@ -10,3 +10,10 @@ TODOs
 6) Autostart Chromium in flullscreen on startup https://linux.tips/tutorials/how-to-auto-start-chromium-in-full-screen-mode-to-a-website-url-on-ubuntu-os
 7) Set frames.html as default start page in Chromium http://write.flossmanuals.net/chromium/setting-startup-and-start-page-options/
 8) Reboot Rasperry Pi automatically every night https://gist.github.com/jritsema/d358f31bcc83f5bb479a
+
+DONATIONS
+We would be very happy to receive a small donation :D
+https://www.paypal.me/JonasAugust
+
+EMAIL
+sfc-lauf-lillinghof@gmail.com
