@@ -16,4 +16,4 @@ We would be very happy to receive a small donation :D<br>
 https://www.paypal.me/JonasAugust
 
 EMAIL<br>
-sfc-lauf-lillinghof@gmail.com
+sfc.lauf.lillinghof@gmail.com
