@@ -12,7 +12,7 @@ TODOs
 8) Reboot Rasperry Pi automatically every night https://gist.github.com/jritsema/d358f31bcc83f5bb479a
 
 DONATIONS<br>
-We would be very happy to receive a small donation :D<br>
+We would be happy to receive a donation in favour of our gliding club. The development of the system generated a lot of work and know-how and if you appreciate it feel free to leave a monetary support for the future projects of your gliding club.<br>
 https://www.paypal.me/JonasAugust
 
 EMAIL<br>
